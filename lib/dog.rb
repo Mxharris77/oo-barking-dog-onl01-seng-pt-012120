@@ -11,4 +11,4 @@ end
 
 
 husky = Dog.new 
-husky.name = 
+husky.name = "Balto"
