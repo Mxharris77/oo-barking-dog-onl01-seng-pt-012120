@@ -7,6 +7,6 @@ class Dog
     the_dogs_name
   end 
 
-
-
 end
+
+
