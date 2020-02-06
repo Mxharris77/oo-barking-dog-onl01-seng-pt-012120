@@ -12,3 +12,4 @@ end
 
 husky = Dog.new 
 husky.name = "Balto"
+husky.name 
