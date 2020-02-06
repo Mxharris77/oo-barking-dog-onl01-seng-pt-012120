@@ -10,3 +10,5 @@ class Dog
 end
 
 
+husky = Dog.new 
+husky.name = 
